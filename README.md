@@ -1,20 +1,25 @@
-## Token for TokenPocket
+## OpenChainID
 
 ### Overview
-This is the repo for TokenPocket to add token and update the Token logos according to the community requirements. Once the PR is accepted, your token or logo will be updated on TokenPocket.
-Please read the following tutorials.
+![Self Soverign Identity - OpenChainID](./Assets/SelfSovereign.png)
 
-### How to submit 
-https://tphelp.gitbook.io/en/wallet-operation/how-to-submit-a-token-logo
+### The Problem
+Everyday we carry wallets full of cards
+However, a select few like government IDs and credit cards are widely accepted. As our
+society has established global norms for how we present and verify the credentials these
+physical cards represent.But there is no equivalent for digital credentials.
+Firstly, There is no standard mechanism to issue and own digital identity.
+Our access to these identifiers and our personal information is at the mercy of service
+providers.
 
+There is no universally accepted standard for -
+- Expressing
+- Exchanging
+- Verifying
 
+Across organizational boundaries.
+A new form of digital identity based on emerging standards such as verifiable credentials
+and decentralized identifiers can enable such digital credentials to work everywhere. Be
+more trustworthy and respect privacy.
 
-## TokenPocket代币图标更新指南
-
-### 简介
-本仓库为TokenPocket根据社区需求进行代币更新，只要PR被合并，代币及其图标就会在TokenPocket里更新。
-请根据以下指引进行提交。
-
-### 怎么提交
-https://tphelp.gitbook.io/cn/wallet-operation/submit-token
-
+### 
